@@ -3,6 +3,8 @@
 
 int main(int argc, char *argv[]) 
 // Punto de entrada principal del programa. argc y argv son los parámetros para la línea de comandos.
+//argv es la dirección de una tabla que contiene las cadenas (char*).
+//argc es un entero que indica el número de cadenas contenidas en la tabla.
 {
     int angulo=0; 
     // Declaración de una variable entera 'angulo' e inicialización en 0.
